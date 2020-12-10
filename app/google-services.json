@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "779053249331",
+    "firebase_url": "https://estoque-18cdb.firebaseio.com",
+    "project_id": "estoque-18cdb",
+    "storage_bucket": "estoque-18cdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779053249331:android:e98b9f3aa700db488e0446",
+        "android_client_info": {
+          "package_name": "com.example.estoque411"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779053249331-mu3k51dkhh4pnrf18daq2pn8hlm1t0sj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.estoque411",
+            "certificate_hash": "263fdfdf55575aceb5f5321d75b4e3fbe1fba582"
+          }
+        },
+        {
+          "client_id": "779053249331-gf6bko1bl0oj5n41i1vv8ajt98m4mar3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcR3P_AMZW6tvmUV_UDxoGAIqBGrW8iRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779053249331-gf6bko1bl0oj5n41i1vv8ajt98m4mar3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
